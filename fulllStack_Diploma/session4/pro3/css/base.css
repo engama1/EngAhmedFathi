@@ -1,0 +1,29 @@
+*{margin:0; padding:0}
+#wrapper{
+	width:1000px;
+	background:#e3e3e3;
+	margin:50px auto;
+}
+#navbar{
+	width:100%;
+	height:40px;
+	background:#333;
+}
+#navbar ul li{
+	float:left;
+	list-style:none;
+}
+#navbar ul li a{
+	display:block;
+	line-height:40px;
+	padding:0 10px;
+	border-right:1px solid #fff;
+	text-decoration:none;
+	color:#fff;
+	font-family:tahoma;
+	font-size:16px;
+}
+#navbar ul li a:hover{
+	color:#e3e3ea;
+	background:#f00;
+}

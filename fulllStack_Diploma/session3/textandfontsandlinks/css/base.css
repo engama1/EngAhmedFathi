@@ -1,0 +1,36 @@
+*{margin:0; padding:0}
+p{
+	text-align:center;
+	text-align:justify;
+	text-align-last:right;
+	/*direction:rtl;*/
+	text-transform:uppercase;
+	text-transform:capitalize;
+	text-transform:lowercase;
+	text-indent:50px;
+}
+div{
+	height:90px;
+	background:#f00;
+	text-align:center;
+	line-height:90px;
+}
+h1{
+	font-family:tahoma, verdana, arial;
+	font-size:20px;	
+	font-weight:bold;
+	font:24px/60px tahoma;
+	width:200px;
+	height:60px;
+	background:#eee;
+}
+
+a{
+	text-decoration:none;
+	text-decoration:underline;
+	text-decoration:overline;
+	text-decoration:line-through;
+}
+a:hover{
+	color:green;
+}

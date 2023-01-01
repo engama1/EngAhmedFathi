@@ -1,0 +1,20 @@
+/*element selector*/
+p{
+	font-family:tahoma;
+}
+/*class selector*/
+.box{
+	text-align:right;
+}
+/*ID selector*/
+#container{
+	background:gray;
+}
+/*grouping selector*/
+h1, p{
+	text-align:center;
+}
+/*nth-child selector*/
+div p{
+	color:#a3e;
+}

@@ -1,0 +1,32 @@
+#firstBox{
+	width:200px;
+	height:200px;
+	background:#e3ee3a;
+	/*50px top, 60px right, 30px bottom, 40px left*/
+	margin:50px 60px 30px 40px;
+	/*50px top, 60px leftRight, 30px bottom*/
+	margin:50px 60px 30px;
+	/*50px topBottm, 60px leftRight*/
+	margin:50px 60px;
+	/*50px for all sides*/
+	margin:50px;
+	/*margin calculated by browser*/
+	margin:auto;
+}
+#secondBox{
+	width:200px;
+	height:200px;
+	background:#3eee3a;
+	/*50px top, 60px right, 30px bottom, 40px left*/
+	padding:50px 60px 30px 40px;
+	/*50px top, 60px leftRight, 30px bottom*/
+	padding:50px 60px 30px;
+	/*50px topBottm, 60px leftRight*/
+	padding:50px 60px;
+	/*50px for all sides*/
+	padding:50px;
+	
+	border-right:20px solid #f00;
+	border-left:20px dotted #00f;
+	border:15px dashed #87a;
+}

@@ -1,0 +1,14 @@
+div{
+	width:1000px;
+	height:400px;
+	color:Tomato; /*reserved word*/
+	color:#f00; /*hex color*/
+	color:rgb(255,10,10); /*rgb theory*/
+	background-color:#333;
+	background-image:url("../images/pic_trulli.jpg");
+	background-repeat:repeat-y;
+	background:#f00;
+	background:url("../images/pic_trulli.jpg");
+	background:#f00 url("../images/pic_trulli.jpg") no-repeat;
+	
+}

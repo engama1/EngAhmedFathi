@@ -1,0 +1,31 @@
+*{margin:0; padding:0}
+ul li{
+	display:inline;
+}
+a{
+	display:block;
+	background:#eee;
+}
+/*
+div{
+	display:inline;
+}
+*/
+h1{
+	height:400px;
+	background:#d3daaa;
+	/*visibility:hidden;*/
+	display:none;
+}
+.box{
+	width:200px;
+	height:200px;
+	background:#ffa;
+	float:left;
+}
+.box2{
+	width:200px;
+	height:200px;
+	background:#afa;
+	float:right;
+}
